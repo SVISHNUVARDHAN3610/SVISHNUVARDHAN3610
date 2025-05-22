@@ -44,15 +44,26 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 <div align="center">
 
-  <h4>📝 From Buzz to Blockbuster: Predicting Movie Revenue using a Hybrid Approach Combining Machine Learning and Sentiment Analysis</h4>
-  <p>
-    Published as part of final year research work at <b>SRM Institute of Science and Technology</b>, 2024.<br>
-    This project leverages <i>machine learning and sentiment analysis</i> to forecast box office revenue.<br>
-    Combines social media buzz with structured movie data to enhance prediction accuracy.<br><br>
-    🔗 <b>Link:</b> <i>Coming Soon / [Add your DOI or hosting link here]</i>
-  </p>
+  <table width="90%" align="center">
+    <tr>
+      <td align="left" width="100%">
+        <h3>📝 From Buzz to Blockbuster: Predicting Movie Revenue using a Hybrid Approach Combining Machine Learning and Sentiment Analysis</h3>
+        <p>
+          <b>Authors:</b> Senapathi Vishnu Vardhan<br>
+          <b>Affiliation:</b> SRM Institute of Science and Technology<br>
+          <b>Published:</b> 2024<br>
+          <b>Abstract:</b> This research explores a novel hybrid approach that integrates traditional machine learning techniques with sentiment analysis to predict box office revenues. Social media signals and structured data are combined to enhance forecasting precision.
+        </p>
+        <p>
+          🔗 <b>Link to Paper:</b> <i>https://ieeexplore.ieee.org/document/10894031</i><br>
+        </p>
+        <hr>
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 
