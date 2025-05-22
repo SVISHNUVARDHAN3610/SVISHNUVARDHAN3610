@@ -36,21 +36,24 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
     </td>
   </tr>
 
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🏅 Achievements</h4>
-      <ul align="left">
-        <li>Presented major project <b>"From Buzz to Blockbuster"</b> in SRM University final review panel</li>
-        <li>Completed over <b>10+ major projects</b> in ML, DL, and NLP</li>
-        <li>Secured certifications from <b>Google, IBM, and Coursera</b> in AI and Data Science domains</li>
-        <li>Top performer in multiple inter-college hackathons and coding events</li>
-        <li>Maintained GitHub streaks with regular contributions to open-source</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 </div>
+
+### 📄 Publications
+
+<div align="center">
+
+  <h4>📝 From Buzz to Blockbuster: Predicting Movie Revenue using a Hybrid Approach Combining Machine Learning and Sentiment Analysis</h4>
+  <p>
+    Published as part of final year research work at <b>SRM Institute of Science and Technology</b>, 2024.<br>
+    This project leverages <i>machine learning and sentiment analysis</i> to forecast box office revenue.<br>
+    Combines social media buzz with structured movie data to enhance prediction accuracy.<br><br>
+    🔗 <b>Link:</b> <i>Coming Soon / [Add your DOI or hosting link here]</i>
+  </p>
+
+</div>
+
 
 
 ### 🧠 Technical Skills
