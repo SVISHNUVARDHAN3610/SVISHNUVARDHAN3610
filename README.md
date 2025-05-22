@@ -14,6 +14,43 @@
 I'm a recent graduate from **SRM University, Chennai** with a strong interest in building intelligent systems using Machine Learning, Deep Learning, and NLP.  
 I enjoy solving real-world problems and experimenting with new AI architectures.
 
+### 🏆 Achievements & Internships
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="400px" valign="top">
+      <h4>🎓 AICTE Virtual Internship</h4>
+      <p>
+        Successfully completed a virtual internship under the <b>AICTE</b> program focused on <i>Machine Learning and AI Applications</i>.  
+        Gained exposure to supervised learning models and practical dataset handling.
+      </p>
+    </td>
+    <td width="400px" valign="top">
+      <h4>🏢 JPMorgan Chase & Co. Virtual Internship</h4>
+      <p>
+        Completed the virtual experience program by <b>JPMorgan Chase</b> via Forage.<br>
+        Worked on tasks simulating real-world software engineering challenges like data visualization and financial data analysis.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🏅 Achievements</h4>
+      <ul align="left">
+        <li>Presented major project <b>"From Buzz to Blockbuster"</b> in SRM University final review panel</li>
+        <li>Completed over <b>10+ major projects</b> in ML, DL, and NLP</li>
+        <li>Secured certifications from <b>Google, IBM, and Coursera</b> in AI and Data Science domains</li>
+        <li>Top performer in multiple inter-college hackathons and coding events</li>
+        <li>Maintained GitHub streaks with regular contributions to open-source</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ### 🧠 Technical Skills
