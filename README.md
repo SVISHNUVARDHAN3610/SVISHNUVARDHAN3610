@@ -35,21 +35,42 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 </p>
 
 
----
+
 
 ### ⚙️ Frameworks & Libraries
 
+
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/seaborn.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+
+  <!-- PyTorch -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+
+  <!-- Keras -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <!-- Matplotlib (No devicon icon, using external verified GitHub asset) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+
+  <!-- OpenCV (no devicon, using verified image) -->
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/logo.png" alt="OpenCV" width="40" height="40"/>
+
+  <!-- Seaborn (no official logo, using alternative style) -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
