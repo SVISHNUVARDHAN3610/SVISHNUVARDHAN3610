@@ -3,14 +3,14 @@
   <em>Recent CSE Graduate | Machine Learning & NLP Enthusiast | AI Researcher</em>
 </p>
 
----
+
 
 ### 👨‍🎓 About Me
 
 I'm a recent graduate from **SRM University, Chennai** with a strong interest in building intelligent systems using Machine Learning, Deep Learning, and NLP.  
 I enjoy solving real-world problems and experimenting with new AI architectures.
 
----
+
 
 ### 🧠 Technical Skills
 
@@ -19,7 +19,7 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 - **Development**: Git, GitHub, Jupyter, VS Code, Google Colab  
 - **Deployment Tools**: Streamlit, Flask (Basic knowledge)
 
----
+
 
 ### 💻 Languages I Know
 
@@ -75,14 +75,18 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 ---
 
-### 📜 Certifications
+### 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
+  <a href="https://www.example.com/certificate1" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/certificate.png" width="100" alt="TensorFlow Certificate"/>
+  </a>
+  <a href="https://www.example.com/certificate2" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/certificate.png" width="100" alt="Deep Learning Certificate"/>
+  </a>
+  <!-- Add more -->
 </p>
+
 
 ---
 
