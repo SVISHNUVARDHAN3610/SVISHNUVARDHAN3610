@@ -41,14 +41,19 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
   <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/000000/keras.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/seaborn.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 ---
 
 ### 📜 Certifications
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
