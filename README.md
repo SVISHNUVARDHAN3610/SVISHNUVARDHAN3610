@@ -86,23 +86,44 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 ### 🚀 Projects
 
-Here are some of the key projects I've worked on:
+<div align="center">
 
-#### 📌 [Brain Tumor Classification using Vision Transformers](https://github.com/SVISHNUVARDHAN3610/Brain-Tumor-Classification)
-- Used Vision Transformers to classify brain tumors from MRI scans.
-- **Tech Stack**: Python, PyTorch, ViT, Deep Learning
+<table>
+  <tr>
+    <td width="400px" valign="top">
+      <h4><a href="https://github.com/SVISHNUVARDHAN3610/Brain-Tumor-Classification">🧠 Brain Tumor Classification</a></h4>
+      <p>
+        Vision Transformer-based classification of brain tumors using MRI images.<br>
+        <b>Tech:</b> PyTorch, ViT, Deep Learning
+      </p>
+    </td>
+    <td width="400px" valign="top">
+      <h4><a href="https://github.com/SVISHNUVARDHAN3610/Movie-Revenue-Prediction">🎬 From Buzz to Blockbuster</a></h4>
+      <p>
+        Predicting movie revenue by combining sentiment analysis and ML techniques.<br>
+        <b>Tech:</b> Python, NLP, VADER, ML
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="400px" valign="top">
+      <h4><a href="https://github.com/SVISHNUVARDHAN3610/Hindi-to-English-Translation">🌐 Hindi to English Translation</a></h4>
+      <p>
+        Transformer-based NLP model for translating Hindi text to English.<br>
+        <b>Tech:</b> TensorFlow, NLP, Transformers
+      </p>
+    </td>
+    <td width="400px" valign="top">
+      <h4><a href="https://github.com/SVISHNUVARDHAN3610/Self-Driving-Bicycle">🚲 Self-Driving Bicycle</a></h4>
+      <p>
+        Reinforcement Learning-powered agent to simulate autonomous bicycle control.<br>
+        <b>Tech:</b> PyBullet, PyTorch, RL
+      </p>
+    </td>
+  </tr>
+ </table>
 
-#### 📌 [From Buzz to Blockbuster](https://github.com/SVISHNUVARDHAN3610/Movie-Revenue-Prediction)
-- A hybrid approach combining Machine Learning and Sentiment Analysis to predict movie revenue.
-- **Tech Stack**: Python, Sklearn, VADER, NLP, Linear Regression
-
-#### 📌 [Language Translation - Hindi to English](https://github.com/SVISHNUVARDHAN3610/Hindi-to-English-Translation)
-- Transformer-based model for translating Hindi to English using TensorFlow.
-- **Tech Stack**: TensorFlow, NLP, Transformers, Seq2Seq
-
-#### 📌 [Self-Driving Bicycle using Reinforcement Learning](https://github.com/SVISHNUVARDHAN3610/Self-Driving-Bicycle)
-- RL agent trained in PyBullet for autonomous bicycle control.
-- **Tech Stack**: PyTorch, PyBullet, Reinforcement Learning, PPO
+</div>
 
 
 
