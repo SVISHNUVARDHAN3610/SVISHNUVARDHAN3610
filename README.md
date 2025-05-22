@@ -125,7 +125,7 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 </div>
 
-
+---
 
 ### 📈 GitHub Stats
 
