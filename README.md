@@ -21,7 +21,7 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 
 
-### 💻 Languages I Know
+### 💻 Languages, Frameworks & Libraries I Know
 
 
 
@@ -32,16 +32,6 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
-
-
-
-### ⚙️ Frameworks & Libraries
-
-
-
-<p align="left">
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 
