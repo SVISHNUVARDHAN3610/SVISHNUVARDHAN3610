@@ -84,6 +84,28 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 
 ---
 
+### 🚀 Projects
+
+Here are some of the key projects I've worked on:
+
+#### 📌 [Brain Tumor Classification using Vision Transformers](https://github.com/SVISHNUVARDHAN3610/Brain-Tumor-Classification)
+- Used Vision Transformers to classify brain tumors from MRI scans.
+- **Tech Stack**: Python, PyTorch, ViT, Deep Learning
+
+#### 📌 [From Buzz to Blockbuster](https://github.com/SVISHNUVARDHAN3610/Movie-Revenue-Prediction)
+- A hybrid approach combining Machine Learning and Sentiment Analysis to predict movie revenue.
+- **Tech Stack**: Python, Sklearn, VADER, NLP, Linear Regression
+
+#### 📌 [Language Translation - Hindi to English](https://github.com/SVISHNUVARDHAN3610/Hindi-to-English-Translation)
+- Transformer-based model for translating Hindi to English using TensorFlow.
+- **Tech Stack**: TensorFlow, NLP, Transformers, Seq2Seq
+
+#### 📌 [Self-Driving Bicycle using Reinforcement Learning](https://github.com/SVISHNUVARDHAN3610/Self-Driving-Bicycle)
+- RL agent trained in PyBullet for autonomous bicycle control.
+- **Tech Stack**: PyTorch, PyBullet, Reinforcement Learning, PPO
+
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
