@@ -1,36 +1,28 @@
-# 👋 Hi, I'm Vishnu Vardhan!
-
-🎓 A passionate Computer Science student at SRM University, Chennai  
-🧠 Focused on Machine Learning, Deep Learning, NLP, and Reinforcement Learning  
-🚀 Currently working on: AI projects, personal portfolio, and data science research  
-📫 Connect with me: svishnuvardhan3610@gmail.com
+<h1 align="center">Hi, I'm Senapathi Vishnu Vardhan</h1>
+<p align="center">
+  <em>Machine Learning Enthusiast | Data Science Researcher | Final Year CSE Student at SRM University</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-learn, OpenCV, PyBullet, Git  
-- **Specialties:** Neural Networks, Transformers, Fine-tuning Models, Sentiment Analysis  
+I am a passionate developer and researcher in the field of **Artificial Intelligence**, especially **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
+Currently pursuing my B.Tech in Computer Science at **SRM University, Chennai**.
 
----
-
-## 🔥 My Projects
-
-- **🎬 From Buzz to Blockbuster:** Predicting movie revenue using ML + Sentiment Analysis  
-- **🧠 Brain Tumor Classification:** Vision Transformers for medical imaging  
-- **🚲 Self-Driving Bicycle:** Built using reinforcement learning and simulation  
-- **🌐 Language Translator:** Hindi ➜ English translator using Transformer architecture  
+- 🔭 I’m currently working on:
+  - Movie Revenue Prediction using ML + Sentiment Analysis
+  - Language Translation (Hindi ➜ English) using Transformer models
+- 🧠 I have experience in:
+  - Reinforcement Learning, Transformers, Fine-tuning large models
+  - Brain Tumor Classification using Vision Transformers
+- 👯 I’m looking to collaborate on open-source ML/NLP projects
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVISHNUVARDHAN3610&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVISHNUVARDHAN3610&layout=compact&theme=radical)
-
----
-
-## 💡 Fun Fact
-I'm a huge anime fan — *Naruto* was my first and favorite! Believe it! 🍜
-
+```text
+Languages     : Python, Java, SQL, HTML/CSS, JavaScript
+Frameworks    : TensorFlow, PyTorch, Scikit-learn, OpenCV, PyBullet
+Tools & Env   : Git, Jupyter, Google Colab, VS Code, Power BI
