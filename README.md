@@ -1,28 +1,78 @@
-<h1 align="center">Hi, I'm Senapathi Vishnu Vardhan</h1>
+<h1 align="center">Senapathi Vishnu Vardhan</h1>
 <p align="center">
-  <em>Machine Learning Enthusiast | Data Science Researcher | Final Year CSE Student at SRM University</em>
+  <em>Recent CSE Graduate | Machine Learning & NLP Enthusiast | AI Researcher</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🎓 About Me
 
-I am a passionate developer and researcher in the field of **Artificial Intelligence**, especially **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
-Currently pursuing my B.Tech in Computer Science at **SRM University, Chennai**.
-
-- 🔭 I’m currently working on:
-  - Movie Revenue Prediction using ML + Sentiment Analysis
-  - Language Translation (Hindi ➜ English) using Transformer models
-- 🧠 I have experience in:
-  - Reinforcement Learning, Transformers, Fine-tuning large models
-  - Brain Tumor Classification using Vision Transformers
-- 👯 I’m looking to collaborate on open-source ML/NLP projects
+I'm a recent graduate from **SRM University, Chennai** with a strong interest in building intelligent systems using Machine Learning, Deep Learning, and NLP.  
+I enjoy solving real-world problems and experimenting with new AI architectures.
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 Technical Skills
 
-```text
-Languages     : Python, Java, SQL, HTML/CSS, JavaScript
-Frameworks    : TensorFlow, PyTorch, Scikit-learn, OpenCV, PyBullet
-Tools & Env   : Git, Jupyter, Google Colab, VS Code, Power BI
+- **Programming Languages**: Python, Java, SQL, HTML5, CSS, JavaScript  
+- **Data Science & ML**: Data Preprocessing, Model Building, NLP, Sentiment Analysis  
+- **Development**: Git, GitHub, Jupyter, VS Code, Google Colab  
+- **Deployment Tools**: Streamlit, Flask (Basic knowledge)
+
+---
+
+### 💻 Languages I Know
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/fluency/48/sql.png"/>
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+</p>
+
+---
+
+### 📜 Certifications
+
+<p align="left">
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-certificate-online-education-flatart-icons-outline-flatarticons.png"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SVISHNUVARDHAN3610&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVISHNUVARDHAN3610&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- Email: svishnuvardhan3610@gmail.com  
+- LinkedIn: [linkedin.com/in/senapathi-vishnu-vardhan](https://linkedin.com/in/senapathi-vishnu-vardhan)
+
+---
+
+<p align="center">
+  <em>"A machine is only as smart as the data it's trained on."</em>
+</p>
