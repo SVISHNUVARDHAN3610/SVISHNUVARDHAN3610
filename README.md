@@ -123,10 +123,10 @@ I enjoy solving real-world problems and experimenting with new AI architectures.
 ### 🎓 Certifications
 
 <p align="center">
-  <a href="https://www.example.com/certificate1" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1X6NoZaw42FsVq4c6RsX3QQJp8J6YLUBe?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/clouds/100/certificate.png" width="100" alt="TensorFlow Certificate"/>
   </a>
-  <a href="https://www.example.com/certificate2" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1X6NoZaw42FsVq4c6RsX3QQJp8J6YLUBe?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/clouds/100/certificate.png" width="100" alt="Deep Learning Certificate"/>
   </a>
   <!-- Add more -->
